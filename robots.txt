@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shien.wang/sitemap.xml
+Sitemap: https://www.shien.wang/sitemap.xml
 Sitemap: https://xiaomaohuifaguang.github.io/blog/sitemap.xml
