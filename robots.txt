@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://xiaomaohuifaguang.github.io/sitemap.xml
+Sitemap: https://xiaomaohuifaguang.github.io/blog/sitemap.xml
